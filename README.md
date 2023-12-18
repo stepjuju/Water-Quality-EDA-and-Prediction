@@ -2,9 +2,6 @@
 Creating a well-structured and informative README file is crucial for effectively presenting your project on GitHub. Below is a template for your `README.md` file for the "Water-Quality-Analysis-and-Prediction" repository. You can customize this template as needed to fit the specifics of your project.
 
 ---
-
-# Water Quality Analysis and Prediction
-
 ## Overview
 This repository contains two interrelated projects focusing on the analysis and prediction of water quality using a dataset of various water bodies. The first project involves an exploratory data analysis (EDA) to uncover insights from the dataset, while the second project develops a machine learning model to predict water potability based on various quality parameters.
 
